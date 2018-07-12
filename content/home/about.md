@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-07-12T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Generative Adversarial Networks",
+    "Neural Architecture Search",
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor in Computer Science"
+  institution = "National Tsing Hua University"
+  year = 2018
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<a href="http://hubert0527.github.io/">Hubert</a> receives his bachelor in NTHU and now working with Prof. <a href="http://aliensunmin.github.io/">Min Sun</a> as a research assistant. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hubert's research interest is mainly in generative models and neural architecture search. He believes that the generative model is a very important way to visualize and empirical proof that the machine intelligence can fully understand the data and the implicit meanings behind the scene. In the meanwhile, neural architecture search is the key-stone to fully-automated model design, which will be the next break-through in deep learning. What will happen after machines can iteratively self-optimize with any given dataset? Hubert hopes he can become a CLO (Chief Labelling Officer) or CPO (Chief Preprocessing Officer) after that. 
+
+Hubert is also looking for a Ph.D. position in 2020.
