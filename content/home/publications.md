@@ -19,7 +19,16 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+#   4 = Stream
+list_format = 4
+
+# Publication list format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+#   4 = Stream
+publication_format = 4
 
 # Filter by publication type.
 # -1: Any

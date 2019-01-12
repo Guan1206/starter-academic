@@ -26,7 +26,7 @@ abstract = "Neural Architecture Search (NAS) aims at finding one ''single'' arch
 abstract_short = "The first paper toward instance-aware neural architecture search."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "InstaNAS_thumbnail.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,10 +62,15 @@ math = true
 # Does this page require source code highlighting? (true/false)
 highlight = true
 
+
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "InstaNAS_thumbnail.png"
-caption = "The first paper toward instance-aware neural architecture search."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "The first paper toward instance-aware neural architecture search."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Left"
 
 +++

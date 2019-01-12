@@ -63,9 +63,14 @@ math = true
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "COCO-GAN.png"
-caption = "The first paper discovers and investigates the spatial separable property of GANs via conditional coordinating."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "The first paper discovers and investigates the spatial separable property of GANs via conditional coordinating."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
+
 
 +++
