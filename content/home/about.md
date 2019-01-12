@@ -27,6 +27,9 @@ weight = 5
 
 <a href="http://hubert0527.github.io/">Hubert</a> receives his bachelor in NTHU and now working with Prof. <a href="http://aliensunmin.github.io/">Min Sun</a> as a research assistant. 
 
-Hubert's research interest is mainly in generative models and neural architecture search. He believes that the generative model is a very important way to visualize and empirical proof that the machine intelligence can fully understand the data and the implicit meanings behind the scene. In the meanwhile, neural architecture search is the key-stone to fully-automated model design, which will be the next break-through in deep learning. What will happen after machines can iteratively self-optimize with any given dataset? Hubert hopes he can become a CLO (Chief Labelling Officer) or CPO (Chief Preprocessing Officer) after that. 
+Hubert's research interest is mainly in generative models and neural architecture search, he is also interested in controllable and explanable machine learning. He believes that the generative model is one of the key components to visualize and empirically prove that the machine intelligence can fully understand the data and the implicit meanings behind the scene. In the meanwhile, neural architecture search is the key-stone to fully-automated model design, which will be the next break-through in deep learning. The two long-term research goals of Hubert is: 
 
-Hubert is also looking for a Ph.D. position in 2020.
+1. Building an real-world-sized, infinitely-high-resolution and super-realistic generative model.
+2. Revisiting all the micro structures of modern deep learning models and build more flexible, universal, dynamic and high-capacity models.
+
+Hubert is also looking for visiting opportunities and Ph.D. position in 2020.
